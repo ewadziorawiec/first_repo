@@ -1,1 +1,2 @@
 print('coś')
+print('dwa")
